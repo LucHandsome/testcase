@@ -1,0 +1,14 @@
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\bin\Debug\net8.0\Bai 105.exe
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\bin\Debug\net8.0\Bai 105.deps.json
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\bin\Debug\net8.0\Bai 105.runtimeconfig.json
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\bin\Debug\net8.0\Bai 105.dll
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\bin\Debug\net8.0\Bai 105.pdb
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\Bai 105.GeneratedMSBuildEditorConfig.editorconfig
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\Bai 105.AssemblyInfoInputs.cache
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\Bai 105.AssemblyInfo.cs
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\Bai 105.csproj.CoreCompileInputs.cache
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\Bai 105.dll
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\refint\Bai 105.dll
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\Bai 105.pdb
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\Bai 105.genruntimeconfig.cache
+D:\NamII\CTDL- GT - TH\Chapter 3\Bai 105\obj\Debug\net8.0\ref\Bai 105.dll
